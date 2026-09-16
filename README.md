@@ -23,8 +23,8 @@ npm install
 npm run dev
 ```
 
-Open **http://localhost:xyz** in your browser.
-API docs at **http://localhost:xyz/docs**
+Open **http://localhost:5173** in your browser.
+API docs at **http://localhost:8000/docs**
 
 ---
 
@@ -44,9 +44,9 @@ API docs at **http://localhost:xyz/docs**
 ## Architecture
 
 ```
-React Frontend (localhost:xyz)
+React Frontend (localhost:5173)
         │  REST/axios
-FastAPI Backend (localhost:xyz)
+FastAPI Backend (localhost:8000)
         │
  ┌──────┼──────────────┐
  │      │              │
@@ -104,7 +104,7 @@ Routers  ├─ random_engine.py   (ReportLab)
 | `POST` | `/api/bills/manual` | Create manual bill |
 | `GET` | `/api/bills/stats` | Dashboard statistics |
 
-Full interactive docs: **http://localhost:xyz/docs**
+Full interactive docs: **http://localhost:8000/docs**
 
 ---
 
