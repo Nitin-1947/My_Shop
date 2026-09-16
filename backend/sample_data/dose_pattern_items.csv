@@ -1,0 +1,29 @@
+pattern_name,medicine_code,quantity
+Fever & Pain Relief,MED-001,20
+Fever & Pain Relief,MED-013,10
+Fever & Pain Relief,MED-023,15
+Diabetic Maintenance,MED-005,60
+Diabetic Maintenance,MED-039,30
+Diabetic Maintenance,MED-007,30
+Hypertension Control,MED-007,30
+Hypertension Control,MED-025,30
+Hypertension Control,MED-009,30
+Respiratory Infection,MED-015,5
+Respiratory Infection,MED-041,10
+Respiratory Infection,MED-027,1
+Gastric Relief,MED-017,14
+Gastric Relief,MED-027,10
+Gastric Relief,MED-019,10
+Antibiotic Course,MED-021,10
+Antibiotic Course,MED-017,10
+Antibiotic Course,MED-001,15
+Allergy Management,MED-013,10
+Allergy Management,MED-041,10
+Cardiac Support,MED-035,30
+Cardiac Support,MED-009,30
+Cardiac Support,MED-025,30
+Thyroid Management,MED-037,30
+Thyroid Management,MED-049,30
+Vitamins & Supplements,MED-045,30
+Vitamins & Supplements,MED-047,4
+Vitamins & Supplements,MED-049,30

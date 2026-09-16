@@ -1,0 +1,21 @@
+patient_code,name,age,gender,phone,address,status
+PAT-001,Arjun Sharma,45,MALE,9876543210,"12 MG Road, Ahmedabad",true
+PAT-002,Priya Mehta,32,FEMALE,9812345678,"45 Navrangpura, Ahmedabad",true
+PAT-003,Ramesh Patel,67,MALE,9898765432,"78 Satellite Road, Ahmedabad",true
+PAT-004,Sunita Joshi,28,FEMALE,9765432109,"23 Vastrapur, Ahmedabad",true
+PAT-005,Kiran Desai,54,MALE,9856741230,"56 Bopal, Ahmedabad",true
+PAT-006,Anjali Gupta,38,FEMALE,9734512890,"34 Thaltej, Ahmedabad",true
+PAT-007,Vikram Singh,61,MALE,9623478901,"90 Prahladnagar, Ahmedabad",true
+PAT-008,Meena Agarwal,47,FEMALE,9712345670,"15 Bodakdev, Ahmedabad",true
+PAT-009,Suresh Nair,73,MALE,9534219870,"67 Maninagar, Ahmedabad",true
+PAT-010,Deepa Rao,41,FEMALE,9678901234,"29 Gota, Ahmedabad",true
+PAT-011,Harish Kumar,55,MALE,9345678901,"88 Chandkheda, Ahmedabad",true
+PAT-012,Pooja Shah,26,FEMALE,9456712345,"11 Ranip, Ahmedabad",true
+PAT-013,Mahesh Verma,63,MALE,9567890123,"43 Nikol, Ahmedabad",true
+PAT-014,Lakshmi Iyer,35,FEMALE,9890123456,"72 Narol, Ahmedabad",true
+PAT-015,Dinesh Choudhary,49,MALE,9901234567,"19 Odhav, Ahmedabad",true
+PAT-016,Ritu Bhatt,30,FEMALE,9012345678,"55 Vastral, Ahmedabad",true
+PAT-017,Ashok Trivedi,58,MALE,8901234567,"37 Naroda, Ahmedabad",true
+PAT-018,Kavita Pandya,44,FEMALE,8812345678,"62 Bapunagar, Ahmedabad",true
+PAT-019,Nilesh Solanki,39,MALE,8723456789,"14 Isanpur, Ahmedabad",true
+PAT-020,Geeta Chauhan,52,FEMALE,8634567890,"48 Vatva, Ahmedabad",true

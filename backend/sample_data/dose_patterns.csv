@@ -1,0 +1,11 @@
+pattern_name,illness_name,status
+Fever & Pain Relief,Fever,true
+Diabetic Maintenance,Type 2 Diabetes,true
+Hypertension Control,Hypertension,true
+Respiratory Infection,Upper Respiratory Tract Infection,true
+Gastric Relief,Acid Peptic Disease,true
+Antibiotic Course,Bacterial Infection,true
+Allergy Management,Allergic Rhinitis,true
+Cardiac Support,Heart Disease,true
+Thyroid Management,Hypothyroidism,true
+Vitamins & Supplements,Nutritional Deficiency,true

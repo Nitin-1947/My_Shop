@@ -1,0 +1,11 @@
+doctor_code,name,specialization,phone,status
+DOC-001,Dr. Anil Kapoor,General Physician,9988776655,true
+DOC-002,Dr. Sneha Patel,Cardiologist,9877665544,true
+DOC-003,Dr. Rajesh Kulkarni,Diabetologist,9766554433,true
+DOC-004,Dr. Meera Nambiar,Dermatologist,9655443322,true
+DOC-005,Dr. Suresh Jain,Gastroenterologist,9544332211,true
+DOC-006,Dr. Priya Sharma,Pulmonologist,9433221100,true
+DOC-007,Dr. Vikash Gupta,Orthopedic,9322110099,true
+DOC-008,Dr. Kavita Reddy,Neurologist,9211009988,true
+DOC-009,Dr. Ramesh Mehta,ENT Specialist,9100998877,true
+DOC-010,Dr. Asha Iyer,Gynaecologist,9099887766,true
